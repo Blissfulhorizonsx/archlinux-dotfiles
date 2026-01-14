@@ -5,6 +5,9 @@
 #
 #
 #
+## Previews
+#
+![img](~/archhyprland-dotfiles/previews/preview1.png) ![img](~/archhyprland-dotfiles/previews/preview2.png)
 #############################
 ### REQUIRED REPOSITORIES ###
 #############################
